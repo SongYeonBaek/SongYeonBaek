@@ -10,6 +10,7 @@ Here are some ideas to get you started: -->
 based in Seoul
 
 ( 2019.02 - ) 성신여자대학교 컴퓨터공학과 
+
 (2023.02 ~ 2023. 06) 포르투갈 포르투에 위치한 Polytechnic ISEP 교환학생 파견 
 ---
 
