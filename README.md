@@ -7,10 +7,10 @@
 Here are some ideas to get you started: -->
 
 ### ✨Profile✨
-based in Seoul, Sadang-dong
+based in Seoul
 
-( 2019.02 - ) 성신여자대학교 컴퓨터공학과, 4학년 2학기 모두 마치고 휴학 상태
-
+( 2019.02 - ) 성신여자대학교 컴퓨터공학과 
+(2023.02 ~ 2023. 06) 포르투갈 포르투에 위치한 Polytechnic ISEP 교환학생 파견 
 ---
 
 <!-- -  🔭 I’m currently working on ...
@@ -31,15 +31,13 @@ songyeon0607@naver.com
 
 ### 😄 More about ME ..
 
-MBTI : ENFP, 열정으로 인생을 굴려가는 활동가
+MBTI : ENFP
 
 AGE : 23 (만)
 
 MOTTO: 인간 또한 자연의 일부로, 모든 일이 자연스럽다
 
-HOBBY: 탁구, 테니스, 농구, 헬스, 러닝 등 운동을 매우 즐겨함 💨
-
-ETC: 포르투갈 포르투에 위치한 폴리테크닉 대학교로 2023.02 ~ 2023. 06 교환학생 파견 
+HOBBY: 탁구, 테니스, 농구, 헬스, 러닝 등 운동 💨
 
 ---
 
