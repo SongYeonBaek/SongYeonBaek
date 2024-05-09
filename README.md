@@ -1,5 +1,4 @@
 ## Hi there 👋 So this is about me ..
----
 
 <!--
 **SongYeonBaek/SongYeonBaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +7,6 @@ Here are some ideas to get you started: -->
 
 # ✨Profile✨
 ### 📍based in Seoul
----
 
  2019.02 ~ 성신여자대학교 컴퓨터공학과 
 
