@@ -1,48 +1,79 @@
 ## Hi there 👋 So this is about me ..
 
-<!--
-**SongYeonBaek/SongYeonBaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
-# ✨Profile✨
-### 📍based in Seoul
+### ⛓️ Profile
+#### 📍based in Seoul
 
  2019.02 ~ 성신여자대학교 컴퓨터공학과 
 
- 2023.02 ~ 2023. 06 Portugal Polytechnic ISEP 교환학생 파견 
+ 2023.02 ~ 2023. 06 Portugal Polytechnic ISEP 교환학생 파견 🇵🇹
 
  2023.10 ~ 2024.4 한화 시스템 SW 부트 캠프 BEYOND 2기 
 
 ---
+
 <!-- -  🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 
-### 🔭 Skills
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/><img alt="Html" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/><img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+### 🎱 Skills
+<h4> Backend</h4>
+<div class="stack-container" align="">
+    <img src="https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/springsecurity-000000?style=for-the-badge&logo=springsecurity&logoColor=white">
+    <img src="https://img.shields.io/badge/jsonwebtokens-FCC624?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+    <img src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=white">
+    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+</div>
 
-### 🔭 Blog
+<h4>Frontend</h4>
+<div class="stack-container">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"> 
+    <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0">
+    <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
+    <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Router-CA4245?style=for-the-badge&logo=Router&logoColor=white"/>
+</div>
+<h4>Database</h4>
+<div class="stack-container">
+    <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+</div>
+
+<h4>CI/CD</h4>
+<div class="stack-container">
+    <img src="https://img.shields.io/badge/jenkins-CF4045?style=for-the-badge&logo=jenkins&logoColor=white">
+    <img src="https://img.shields.io/badge/docker-002260?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/k8s-%231572B6?style=for-the-badge&logo=k8s&logoColor=white">
+</div>
+
+### 🔗 Blog
 https://xoxoxoxox.tistory.com/
 
 ---
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=tatpo0)](https://solved.ac/tatpo0)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongYeonBaek)](https://github.com/SongYeonBaek/github-readme-stats)
-[![Solved.ac
-](http://mazassumnida.wtf/api/v2/generate_badge?boj=tatpo0)](https://solved.ac/tatpo0)
+
 
 ### 📫 How to reach me: 
 songyeon0607@naver.com
 
 ---
 
-### 😄 More about ME ..
+### :accessibility: More about ME
 
-MBTI : ENFP
-AGE : 25
-MOTTO: 인간 또한 자연의 일부로, 모든 일이 자연스럽다
-HOBBY: 🏓🎾🏋🏻‍♀️🎧
+-  ENFP
+-   25
+-   인간 또한 자연의 일부로, 모든 일이 자연스럽다
+-  🎾🏋🏻‍♀️🎧 ✈️
 
 ---
 
