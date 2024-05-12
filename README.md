@@ -26,6 +26,8 @@
     <img src="https://img.shields.io/badge/jsonwebtokens-FCC624?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
     <img src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=white">
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+     <img src="https://img.shields.io/badge/ElasticSearch%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+
 </div>
 
 <h4>Frontend</h4>
