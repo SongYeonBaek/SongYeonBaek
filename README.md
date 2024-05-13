@@ -1,4 +1,6 @@
-## Hi there 👋 So this is about me ..
+ <div align="center">
+  <img src="https://github.com/SongYeonBaek/SongYeonBaek/assets/78153440/3a356477-d5de-4aba-a433-dbf9dff4021a" />
+</div>
 
 ### ⛓️ Profile
 #### 📍based in Seoul
