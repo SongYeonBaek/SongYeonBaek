@@ -61,13 +61,14 @@
     <img src="https://img.shields.io/badge/k8s-%231572B6?style=for-the-badge&logo=k8s&logoColor=white">
 </div>
 
+ <div align="center">
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=tatpo0)](https://solved.ac/tatpo0)
+
+</div>
+
 ### 🔗 Blog
 https://xoxoxoxox.tistory.com/
-
----
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=tatpo0)](https://solved.ac/tatpo0)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongYeonBaek)](https://github.com/SongYeonBaek/github-readme-stats)
-
 
 ### 📫 How to reach me: 
 songyeon0607@naver.com
