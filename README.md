@@ -61,12 +61,6 @@
     <img src="https://img.shields.io/badge/k8s-%231572B6?style=for-the-badge&logo=k8s&logoColor=white">
 </div>
 
- <div align="center">
-
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=tatpo0)](https://solved.ac/tatpo0)
-
-</div>
-
 ### 🔗 Blog
 https://xoxoxoxox.tistory.com/
 
@@ -82,5 +76,10 @@ songyeon0607@naver.com
 -   인간 또한 자연의 일부로, 모든 일이 자연스럽다
 -  🎾🏋🏻‍♀️🎧 ✈️
 
----
+
+ <div align="center">
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=tatpo0)](https://solved.ac/tatpo0)
+
+</div>
 
