@@ -1,6 +1,10 @@
  <div align="center">
   <img src="https://github.com/SongYeonBaek/SongYeonBaek/assets/78153440/3a356477-d5de-4aba-a433-dbf9dff4021a" />
 </div>
+ 
+<div align="left">
+    <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
+</div>
 
 ### ⛓️ Profile
 #### 📍based in Seoul
@@ -12,7 +16,6 @@
  2023.02 ~ 2023. 06 Portugal Polytechnic ISEP 교환학생 파견 🇵🇹
 
  2023.10 ~ 2024.4 한화 시스템 SW 부트 캠프 BEYOND 2기 
- 
 
 ---
 
@@ -64,13 +67,22 @@
     <img src="https://img.shields.io/badge/k8s-%231572B6?style=for-the-badge&logo=k8s&logoColor=white">
 </div>
 
-### 🔗 Blog
+
+### 🥇 Backjoon Tier
+
+ <div align="center">
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=tatpo0)](https://solved.ac/tatpo0)
+
+</div>
+
+### 🔗 Tech Blog
+
 https://xoxoxoxox.tistory.com/
 
-### 📫 How to reach me: 
+### 📩 How to reach me | ☕ Coffee Chat | 🫀 Contact Me! 
 songyeon0607@naver.com
 
----
 
 ### :accessibility: More about ME
 
@@ -79,11 +91,4 @@ songyeon0607@naver.com
 -   인간 또한 자연의 일부로, 모든 일이 자연스럽다
 -  🎾🏋🏻‍♀️🎧 ✈️
 -  🇵🇹 🇪🇸 🇭🇺 🇮🇹 🇨🇭 🇫🇷 🇬🇧 🇵🇭 🇻🇳
-
-
- <div align="center">
-
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=tatpo0)](https://solved.ac/tatpo0)
-
-</div>
 
