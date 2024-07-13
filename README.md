@@ -1,9 +1,20 @@
+ <!-- 
  <div align="center">
-  <img src="https://github.com/SongYeonBaek/SongYeonBaek/assets/78153440/3a356477-d5de-4aba-a433-dbf9dff4021a" />
+ <img src="https://github.com/SongYeonBaek/SongYeonBaek/assets/78153440/3a356477-d5de-4aba-a433-dbf9dff4021a" /> 
 </div>
- 
+-->
+
+<div align="center"">
+  <img src="https://github.com/user-attachments/assets/e74021a9-8303-4fc3-b01c-464306cdcbd0">
+</div>
+
+
+
+
+
 <div align="left">
     <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
+
 
 <!--  레고 -->
 <!--     <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" /> -->
