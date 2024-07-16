@@ -17,8 +17,8 @@ jobs:
           USERNAME: ${{ secrets.USERNAME }}
       - name: Commit & Push
         run: |
-          git config user.name git계정_ID
-          git config user.email git계정_EMAIL
+          git config user.name SongYeon
+          git config user.email songyeon0607@naver.com
           git add -A .
           git commit -m "generated"
           git push
